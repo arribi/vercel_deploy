@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p className="card">
-        This is my first deployment in Vercel!
+        This is my second deployment in Vercel!
       </p>
     </>
   )
